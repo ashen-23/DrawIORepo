@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T03:06:33.991Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="SPUevArIIzmMdMVBDnx9" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T03:08:30.089Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="CiCQYVmfcA3QGS_EtgNj" version="20.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1106" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="640" y="150" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HV9Sme8KzqDoX2qMjPiU-9" value="Mini App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="645" y="105" width="70" height="30" as="geometry" />
+          <mxGeometry x="640" y="105" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HV9Sme8KzqDoX2qMjPiU-10" value="" style="whiteSpace=wrap;html=1;strokeWidth=1.5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="230" width="180" height="120" as="geometry" />
@@ -37,8 +37,8 @@
         <mxCell id="HV9Sme8KzqDoX2qMjPiU-12" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fillColor=#FC9900;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="913.5" y="240" width="53" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HV9Sme8KzqDoX2qMjPiU-13" value="Package" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="355" y="105" width="70" height="30" as="geometry" />
+        <mxCell id="HV9Sme8KzqDoX2qMjPiU-13" value="Category Manage &amp;amp; package" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="105" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HV9Sme8KzqDoX2qMjPiU-14" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -141,6 +141,9 @@
             <mxPoint x="750" y="400" as="sourcePoint" />
             <mxPoint x="810" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HV9Sme8KzqDoX2qMjPiU-39" value="Access Category" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="105" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
