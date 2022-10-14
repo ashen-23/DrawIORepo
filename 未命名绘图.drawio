@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T04:02:32.832Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="3LZd4oknAvuZWqBSRcMN" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-14T08:19:16.490Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8bxURrRA7v8O2KwR3lFV" version="20.4.0" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="首页">
     <mxGraphModel dx="1106" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,10 +178,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iQkWHmByu0i23tVqcr8R" name="第 3 页">
-    <mxGraphModel dx="1106" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1318" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DrM0dnxs3aiw_zaTAnNU-60" value="" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="320" y="10" width="440" height="210" as="geometry" />
+        </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="120" y="380" width="660" height="240" as="geometry" />
         </mxCell>
@@ -209,71 +212,59 @@
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-9" value="迭代区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="30" y="255" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DrM0dnxs3aiw_zaTAnNU-10" value="" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="354" y="190" width="176" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-11" value="动态发布区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="760" y="265" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-12" value="公共产品、APP 首页" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="119" y="30" width="630" height="90" as="geometry" />
+          <mxGeometry x="120" y="-40" width="630" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-14" value="小程序容器" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="367" y="220" width="160" height="25" as="geometry" />
+          <mxGeometry x="320" y="230" width="200" height="25" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-17" value="bridge 兼容层" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="345" y="305" width="395" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="DrM0dnxs3aiw_zaTAnNU-18" value="" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="560" y="190" width="180" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-19" value="H5容器" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="560" y="220" width="160" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="DrM0dnxs3aiw_zaTAnNU-22" value="" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="367" y="253.75" width="73" height="36.25" as="geometry" />
-        </mxCell>
-        <mxCell id="DrM0dnxs3aiw_zaTAnNU-23" value="监控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="378.5" y="250" width="50" height="30" as="geometry" />
+          <mxGeometry x="570" y="230" width="190" height="25" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-34" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="965" y="100" width="100" height="130" as="geometry" />
+          <mxGeometry x="580" y="80" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-31" value="" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="DrM0dnxs3aiw_zaTAnNU-34">
-          <mxGeometry width="100" height="130" as="geometry" />
+          <mxGeometry width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-24" value="故障监控" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="DrM0dnxs3aiw_zaTAnNU-34">
-          <mxGeometry x="20" y="32.5" width="60" height="22" as="geometry" />
+          <mxGeometry x="26" y="32.5" width="78" height="22" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-29" value="性能监控" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="DrM0dnxs3aiw_zaTAnNU-34">
-          <mxGeometry x="20" y="64" width="60" height="22" as="geometry" />
+          <mxGeometry x="26" y="64" width="78" height="22" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-30" value="业务监控" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="DrM0dnxs3aiw_zaTAnNU-34">
-          <mxGeometry x="20" y="95" width="60" height="22" as="geometry" />
+          <mxGeometry x="26" y="95" width="78" height="22" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-32" value="监控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="DrM0dnxs3aiw_zaTAnNU-34">
-          <mxGeometry x="25" y="2.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="40" y="2.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-38" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="850" y="100" width="100" height="130" as="geometry" />
+          <mxGeometry x="352.5" y="80" width="151.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-39" value="" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="DrM0dnxs3aiw_zaTAnNU-38">
-          <mxGeometry width="100" height="130" as="geometry" />
+          <mxGeometry width="151.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-40" value="生命周期" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="DrM0dnxs3aiw_zaTAnNU-38">
-          <mxGeometry x="20" y="32.5" width="60" height="22" as="geometry" />
+          <mxGeometry x="30.299999999999997" y="32.5" width="90.9" height="22" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-41" value="启动配置" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="DrM0dnxs3aiw_zaTAnNU-38">
-          <mxGeometry x="20" y="64" width="60" height="22" as="geometry" />
+          <mxGeometry x="30.299999999999997" y="64" width="90.9" height="22" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-42" value="样式配置" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="DrM0dnxs3aiw_zaTAnNU-38">
-          <mxGeometry x="20" y="95" width="60" height="22" as="geometry" />
+          <mxGeometry x="30.299999999999997" y="95" width="90.9" height="22" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-43" value="运行时" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="DrM0dnxs3aiw_zaTAnNU-38">
-          <mxGeometry x="20" y="2.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="45.75" y="2.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-44" value="MiniApp" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="360" y="130" width="380" height="50" as="geometry" />
+          <mxGeometry x="352.5" y="20" width="380" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-45" value="Android/iOS Bridge" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1080" y="100" width="100" height="130" as="geometry" />
