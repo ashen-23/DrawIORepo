@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T11:00:05.119Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="AuZVzPBA3dcRPb3JqHff" version="20.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-14T11:00:41.385Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="OLdmmJcWC-VuIXrCBIL1" version="20.4.0" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="首页">
     <mxGraphModel dx="1106" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -209,7 +209,7 @@
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-17" value="bridge 兼容层" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="330" y="222" width="420" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="DrM0dnxs3aiw_zaTAnNU-44" value="MiniApp" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="DrM0dnxs3aiw_zaTAnNU-44" value="MiniApp" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="330" y="10" width="420" height="35" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-45" value="Android/iOS Bridge" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
@@ -287,7 +287,7 @@
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-79" value="监控" style="whiteSpace=wrap;html=1;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="435" y="96" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DrM0dnxs3aiw_zaTAnNU-80" value="样式配置" style="whiteSpace=wrap;html=1;strokeWidth=1.5;" vertex="1" parent="1">
+        <mxCell id="DrM0dnxs3aiw_zaTAnNU-80" value="样式配置" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="330" y="133.5" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-84" value="Native 组件" style="whiteSpace=wrap;html=1;strokeWidth=1.5;" vertex="1" parent="1">
@@ -299,7 +299,7 @@
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-86" value="监控" style="whiteSpace=wrap;html=1;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="655" y="96" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DrM0dnxs3aiw_zaTAnNU-87" value="样式配置" style="whiteSpace=wrap;html=1;strokeWidth=1.5;" vertex="1" parent="1">
+        <mxCell id="DrM0dnxs3aiw_zaTAnNU-87" value="样式配置" style="whiteSpace=wrap;html=1;strokeWidth=1.5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="550" y="133.5" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DrM0dnxs3aiw_zaTAnNU-88" value="Native 组件" style="whiteSpace=wrap;html=1;strokeWidth=1.5;" vertex="1" parent="1">
