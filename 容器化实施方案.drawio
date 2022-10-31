@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T02:53:43.764Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BGUrHq22q9SAwCn0n1s7" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T03:41:51.896Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Ohjq_Nby8DLe2K996wmk" version="20.5.1" type="github" pages="2">
   <diagram id="qIdcDjwDj3UZT8pqLWE8" name="旧 Router 兼容">
     <mxGraphModel dx="1106" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,26 @@
         </mxCell>
         <mxCell id="DKqQbRdeW2jOu4wajo9d-27" value="用户点击" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="210" width="102" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FAg0dQYX_zSHLm4K_JZT" name="第 2 页">
+    <mxGraphModel dx="1106" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hnnwa67ViJj3flrmdZnM-2" value="DDRouterMan" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-3" value="ESRouterManager" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-4" value="esapp://native&lt;br&gt;esapp://h5" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-5" value="ONERouter" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
