@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T03:56:41.972Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="PKRAriPk_5yLGAhK-P-a" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-31T06:36:31.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="T0QIUqCBXarbKjQ42cRs" version="20.5.1" type="github" pages="2">
   <diagram id="qIdcDjwDj3UZT8pqLWE8" name="旧 Router 兼容">
     <mxGraphModel dx="1106" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,21 +80,72 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FAg0dQYX_zSHLm4K_JZT" name="第 2 页">
-    <mxGraphModel dx="1106" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1933" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hnnwa67ViJj3flrmdZnM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hnnwa67ViJj3flrmdZnM-2" target="hnnwa67ViJj3flrmdZnM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hnnwa67ViJj3flrmdZnM-2" value="DDRouterMan" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnnwa67ViJj3flrmdZnM-3" target="hnnwa67ViJj3flrmdZnM-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hnnwa67ViJj3flrmdZnM-3" value="ESRouterManager" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="205" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hnnwa67ViJj3flrmdZnM-4" value="esapp://native&lt;br&gt;esapp://h5" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hnnwa67ViJj3flrmdZnM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnnwa67ViJj3flrmdZnM-4" target="hnnwa67ViJj3flrmdZnM-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-4" value="esapp://h5&lt;br&gt;esapp://native" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnnwa67ViJj3flrmdZnM-5" target="hnnwa67ViJj3flrmdZnM-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hnnwa67ViJj3flrmdZnM-5" value="ONERouter" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnnwa67ViJj3flrmdZnM-6" target="hnnwa67ViJj3flrmdZnM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-6" value="esapp://h5&lt;br&gt;esapp://native&lt;br&gt;esapp://flutter" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-7" value="九宫格&lt;br&gt;行前审批/差旅&lt;br&gt;用车服务&lt;br&gt;APNS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="200" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnnwa67ViJj3flrmdZnM-8" target="hnnwa67ViJj3flrmdZnM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hnnwa67ViJj3flrmdZnM-8" target="hnnwa67ViJj3flrmdZnM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnnwa67ViJj3flrmdZnM-8" target="hnnwa67ViJj3flrmdZnM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-8" value="现有 Router" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-15" value="自动化决策&lt;br&gt;切换企业&lt;br&gt;撤回授权" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-17" value="业务耦合严重" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-18" value="业务关联性低" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="125" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hnnwa67ViJj3flrmdZnM-19" target="hnnwa67ViJj3flrmdZnM-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-19" value="esapp://anycar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hnnwa67ViJj3flrmdZnM-21" value="等待应答6.0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
