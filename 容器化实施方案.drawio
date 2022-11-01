@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T11:22:11.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QVe_Zf8lxKG4q2vgNIGh" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-01T12:16:54.775Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8Y7rkiEUVlbUEY6S9zPy" version="20.5.1" type="github" pages="5">
   <diagram id="qIdcDjwDj3UZT8pqLWE8" name="旧 Router 兼容">
     <mxGraphModel dx="1106" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -267,6 +267,36 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hc4BWEnFo2W222Ti7i1A-1" value="scheme" style="whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hc4BWEnFo2W222Ti7i1A-2" value="web" style="whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="20" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hc4BWEnFo2W222Ti7i1A-3" value="native" style="whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hc4BWEnFo2W222Ti7i1A-4" value="miniapp" style="whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="540" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hc4BWEnFo2W222Ti7i1A-5" value="other" style="whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="790" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hc4BWEnFo2W222Ti7i1A-6" value="intercept" style="whiteSpace=wrap;html=1;labelBorderColor=none;fontSize=18;fontColor=#67AB9F;dashed=1;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="340" width="890" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hc4BWEnFo2W222Ti7i1A-7" value="webController" style="whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#666666;fontSize=18;fontColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="20" y="440" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hc4BWEnFo2W222Ti7i1A-8" value="nativeController" style="whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#666666;fontSize=18;fontColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hc4BWEnFo2W222Ti7i1A-9" value="diminaContainer&lt;br&gt;webContainer" style="whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#666666;fontSize=18;fontColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="530" y="435" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hc4BWEnFo2W222Ti7i1A-10" value="otherContainer" style="whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#666666;fontSize=18;fontColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="800" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
